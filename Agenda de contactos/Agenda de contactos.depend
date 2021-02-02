@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1612236493 source:c:\users\59399\desktop\agenda de contactos\main.cpp
+	<iostream>
+	<fstream>
+
+1612303439 source:c:\users\59399\desktop\algoritmos-y-estructura-de-datos\agenda de contactos\main.cpp
+	<iostream>
+	<fstream>
+
