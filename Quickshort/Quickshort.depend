@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614721447 source:c:\users\59399\desktop\quickshort\main.cpp
+	<iostream>
+	"quicksort.h"
+	"imprimir.h"
+	<fstream>
+
+1614721447 c:\users\59399\desktop\quickshort\imprimir.h
+	<iostream>
+	<fstream>
+
+1614718742 c:\users\59399\desktop\quickshort\quicksort.h
+
