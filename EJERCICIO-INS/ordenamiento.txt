@@ -1,0 +1,6 @@
+La lista desordenada es :
+|1||5||8||9||2||3||7|
+La lista ordenada es :
+|1||2||3||5||7||8||9|
+El total de elementos en el arreglo es de: 7
+La suma de los elementos en el arreglo es de : 35
