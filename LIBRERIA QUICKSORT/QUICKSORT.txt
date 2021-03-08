@@ -1,0 +1,18 @@
+		--------ElEMENTOS INGRESADOS/DESORDENADOS------------
+
+A[0] = -34
+A[1] = 56
+A[2] = 78
+A[3] = -234
+A[4] = 56
+A[5] = 90
+A[6] = -56
+		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+A[0] = -234
+A[1] = -56
+A[2] = -34
+A[3] = 56
+A[4] = 56
+A[5] = 78
+A[6] = 90
