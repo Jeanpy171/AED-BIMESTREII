@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615827018 source:c:\users\59399\desktop\heapsort\heapsort.c
+
+1615827053 source:c:\users\59399\desktop\heapsort\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	"heapsortlib.h"
+
+1615826925 c:\users\59399\desktop\heapsort\heapsortlib.h
+
